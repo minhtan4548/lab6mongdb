@@ -5,4 +5,4 @@ export default function Category() {
   return (
     <div>lmht</div>
   )
-}
+}   
